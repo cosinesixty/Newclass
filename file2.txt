@@ -1,2 +1,3 @@
 new change in file2.txt
 2nd change made again
+now 3rd change
